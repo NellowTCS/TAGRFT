@@ -1,0 +1,31 @@
+{
+  "name": "tagrft",
+  "version": "1.0.0",
+  "description": "There’s A GitHub Repo For That™ - a search engine for that one weirdly specific thing you need!",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NellowTCS/TAGRFT.git"
+  },
+  "keywords": [
+    "search",
+    "svelte"
+  ],
+  "author": "NellowTCS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NellowTCS/TAGRFT/issues"
+  },
+  "homepage": "https://github.com/NellowTCS/TAGRFT#readme",
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.2.0",
+    "lucide-svelte": "^0.544.0",
+    "svelte": "^5.39.3",
+    "vite": "^7.1.6"
+  }
+}
